@@ -1,6 +1,5 @@
 import subprocess
-import sys
-import os
+
 from file_helper import check_directory
 
 
